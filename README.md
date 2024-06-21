@@ -1,5 +1,5 @@
 # MissPEFT
-Finetuning Mistral 7B using PEFT 
+Finetuning Mistral 7B using LoRA and 4-bit quantization/
 
 ## Table of Contents
 - [Usage](#usage)
